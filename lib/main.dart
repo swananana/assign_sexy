@@ -33,7 +33,7 @@ class _TextFieldExState extends State<TextFieldEx> {
         appBar: AppBar(
           backgroundColor: Colors.deepPurple,
           title: Text(
-            "STACK", textAlign: TextAlign.center, style: TextStyle( fontSize: 30, color: Colors.white),
+            "Stack", textAlign: TextAlign.center, style: TextStyle( fontSize: 30, color: Colors.white),
           ),
         ),
         body: new Center(
